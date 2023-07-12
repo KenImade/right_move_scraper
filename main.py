@@ -40,6 +40,5 @@ postcodes = {
 
 file = 'Data/right_move_data.csv'
 extractor = PropertyInfo(file)
-
-extractor.get_property_data(2392)
+extractor.get_property_data(0)
 # extractor.save_to_csv()
